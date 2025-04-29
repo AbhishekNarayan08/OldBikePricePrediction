@@ -107,7 +107,7 @@ web: gunicorn app:app
 - **Example Prediction:**  
   | Year | Mileage | Engine CC | Predicted Price |
   |------|---------|-----------|-----------------|
-  | 2015 | 25000   | 150       | ₹75,000         |
+  | 2015 | 25000   | 150       | ₹45,000         |
 
 - **Model Performance:**  
   - MSE: 120000000  
